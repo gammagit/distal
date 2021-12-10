@@ -14,4 +14,4 @@ Description of key files:
 - `./simulations/compute_similarity.ipynb`: Python notebook to generate cosine similarity between internal representations for Basis and two deformations.
 - `./experiment/exp2_data.csv`: Data for all participants (anonymised). Each row corresponds to a trial. The conditions are labelled 'base', 'shear1', 'shear2' for Basis, D1 and D2 deformations that make relational change and 'rot1', 'rot2' for D1 and D2 deformations that make coordinate change.
 
-All datasets used to run the simulations listed in the manuscript are included in the directory `./simulations/data`
+All datasets used to run the simulations listed in the manuscript can be generated using `sim_exp1.py` and `sim_exp2.py` and will reside in `./simulations/data`
