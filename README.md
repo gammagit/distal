@@ -1,6 +1,6 @@
 This repository contains code as well as data related to:
 
-Gaurav Malhotra, Marin Dujmovic, John Hummel & Jeffrey Bowers. The contrasting shape representations that support objectrecognition in humans and CNNs
+Gaurav Malhotra, Marin Dujmovic, John Hummel & Jeffrey Bowers. Human shape representations are not an emergent property of learning to classify objects
 
 Code related to generating datasets as well as simulating CNNs is contained in the `simulations` directory.
 
